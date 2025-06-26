@@ -7,7 +7,7 @@
              Anna Helena Reali Costa,
              Artur Jordao},
   title   = {Pruning Everything, Everywhere, All at Once},
-  journal = {International Joint Conference on Neural Network},
+  journal = {International Joint Conference on Neural Networks (IJCNN)},
   year    = {2025}
 }
 ```
