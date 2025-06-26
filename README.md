@@ -4,7 +4,7 @@
 @article{Nascimento:2025,
   author  = {Gustavo Henrique do Nascimento,
              Ian Pons,
-             Anna Helena Costa Reali,
+             Anna Helena Reali Costa,
              Artur Jordao},
   title   = {Pruning Everything, Everywhere, All at Once},
   journal = {International Joint Conference on Neural Network},
